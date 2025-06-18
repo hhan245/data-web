@@ -11,19 +11,18 @@ main {
   padding: 2rem;
 }
 .profile-image {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   margin-bottom: 1.5rem;
-  /* I want border to be a circle */
   border: 2px solid var(--text-color);
   object-fit: cover;
 }
 .avatar {
   border-radius: 50%;
   object-fit: cover;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
 }
 
 h1 {

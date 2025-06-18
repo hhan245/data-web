@@ -60,6 +60,7 @@
           height: 100px;
           margin-bottom: 0.5rem;
           background: white;
+          border: 2px solid var(--text-color);
         }
         .theme-toggle {
           font-size: 1.5rem;

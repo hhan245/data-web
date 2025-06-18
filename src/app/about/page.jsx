@@ -92,7 +92,7 @@ export default function AboutPage() {
       </p>
       <div className="profile-image">
         <Image
-          src="/images/shin.jpg"
+          src="/images/han.jpg"
           alt="Avatar"
           width={100}
           height={100}
